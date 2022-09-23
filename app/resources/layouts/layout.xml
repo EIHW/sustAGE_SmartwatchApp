@@ -1,0 +1,12 @@
+<layouts>
+<layout id="MainLayout">
+<bitmap id="hrIcon" x="48" y="163" filename="../drawables/heartApp.png" />
+</layout>
+
+<layout id="RecLayoutTest">
+<bitmap id="recIcon" x="center" y="40" filename="../drawables/handWaving.png" />
+</layout>
+
+<layout id="emptyLayout">
+</layout>
+</layouts>

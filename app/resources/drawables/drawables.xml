@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="app_launchIcon.png" />
+    <bitmap id="sustAGE_LauncherIcon" filename="app_launchIcon.png" />
+    <bitmap id="connectivityIcon" filename="connectivity.png" />
+    <bitmap id="recIconPhone" filename="notification.png" />
+</drawables>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="3" lineNum="71" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="3" lineNum="72" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="3" lineNum="73" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="3" lineNum="75" pc="268435490" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="4" lineNum="78" pc="268435523" symbol="onMenu"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="83" pc="268435528" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="84" pc="268435532" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="86" pc="268435551" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="87" pc="268435572" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="88" pc="268435602" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="90" pc="268435623" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="91" pc="268435648" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="93" pc="268435669" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="94" pc="268435683" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="95" pc="268435697" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="96" pc="268435711" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="97" pc="268435725" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="98" pc="268435739" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="99" pc="268435753" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="101" pc="268435767" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="103" pc="268435780" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="104" pc="268435805" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="107" pc="268435836" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="112" pc="268435902" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="115" pc="268435915" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="116" pc="268435940" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="119" pc="268435971" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="125" pc="268436040" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="128" pc="268436050" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="5" lineNum="129" pc="268436060" symbol="onReceive"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="6" lineNum="133" pc="268436077" symbol="appMainScreen"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="6" lineNum="134" pc="268436081" symbol="appMainScreen"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="6" lineNum="135" pc="268436091" symbol="appMainScreen"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="138" pc="268436108" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="139" pc="268436112" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="140" pc="268436140" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="141" pc="268436150" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="142" pc="268436168" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="144" pc="268436186" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="146" pc="268436205" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="147" pc="268436215" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="148" pc="268436225" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="150" pc="268436241" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="152" pc="268436282" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="160" pc="268436527" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="162" pc="268436546" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="163" pc="268436556" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="164" pc="268436566" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="166" pc="268436582" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="168" pc="268436623" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="172" pc="268436692" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="174" pc="268436711" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="175" pc="268436721" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="176" pc="268436731" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="178" pc="268436747" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="180" pc="268436788" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="186" pc="268436945" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="188" pc="268436964" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="189" pc="268436974" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="190" pc="268436984" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="192" pc="268437000" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="194" pc="268437041" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="206" pc="268437374" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="208" pc="268437393" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="210" pc="268437418" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="214" pc="268437484" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="7" lineNum="215" pc="268437494" symbol="phoneMessageCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="221" pc="268437514" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="223" pc="268437518" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="224" pc="268437574" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="225" pc="268437602" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="227" pc="268437626" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="227" pc="268437640" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="227" pc="268437654" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="228" pc="268437668" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="230" pc="268437695" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="231" pc="268437717" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="232" pc="268437739" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="236" pc="268437764" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="237" pc="268437778" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="238" pc="268437805" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="241" pc="268437830" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="242" pc="268437856" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="243" pc="268437882" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="8" lineNum="244" pc="268437908" symbol="sensorDataCallback"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="248" pc="268437935" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="250" pc="268437939" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="251" pc="268437995" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="253" pc="268438023" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="255" pc="268438050" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="256" pc="268438066" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="257" pc="268438083" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="259" pc="268438093" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="260" pc="268438114" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="261" pc="268438144" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="262" pc="268438174" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="263" pc="268438204" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="264" pc="268438234" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="265" pc="268438264" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="266" pc="268438294" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="268" pc="268438318" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="270" pc="268438347" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="272" pc="268438373" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="273" pc="268438399" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="275" pc="268438413" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="276" pc="268438439" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="277" pc="268438465" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="278" pc="268438491" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="278" pc="268438505" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="278" pc="268438519" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="280" pc="268438533" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="282" pc="268438553" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="284" pc="268438607" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="285" pc="268438628" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="286" pc="268438671" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="287" pc="268438714" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="288" pc="268438757" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="289" pc="268438775" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="291" pc="268438796" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="292" pc="268438807" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="294" pc="268438814" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="296" pc="268438842" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="298" pc="268438870" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="300" pc="268438898" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="302" pc="268438926" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="303" pc="268438954" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="304" pc="268438982" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="307" pc="268439013" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="310" pc="268439027" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="312" pc="268439041" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="313" pc="268439088" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="313" pc="268439114" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="315" pc="268439128" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="315" pc="268439154" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="317" pc="268439168" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="317" pc="268439194" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="319" pc="268439208" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="319" pc="268439234" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="320" pc="268439248" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="320" pc="268439274" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="321" pc="268439288" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="321" pc="268439314" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="323" pc="268439328" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="323" pc="268439354" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="327" pc="268439371" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="328" pc="268439399" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="330" pc="268439410" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="331" pc="268439452" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="333" pc="268439480" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="334" pc="268439522" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="336" pc="268439550" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="337" pc="268439592" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="339" pc="268439620" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="340" pc="268439662" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="341" pc="268439690" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="342" pc="268439732" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="343" pc="268439760" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="344" pc="268439802" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="346" pc="268439830" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="347" pc="268439872" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="354" pc="268439906" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="355" pc="268439927" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="356" pc="268439957" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="357" pc="268439987" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="358" pc="268440017" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="359" pc="268440047" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="361" pc="268440068" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="362" pc="268440089" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="363" pc="268440119" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="364" pc="268440149" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="365" pc="268440179" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="366" pc="268440209" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="368" pc="268440230" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="370" pc="268440240" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="381" pc="268440439" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="9" lineNum="385" pc="268440495" symbol="sensorOn"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="390" pc="268440517" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="392" pc="268440521" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="393" pc="268440577" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="395" pc="268440590" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="396" pc="268440603" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="400" pc="268440656" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="403" pc="268440675" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="413" pc="268440760" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="415" pc="268440794" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEDelegate.mc" id="10" lineNum="416" pc="268440836" symbol="startSensing"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="12" lineNum="19" pc="268440869" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="12" lineNum="20" pc="268440873" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="13" lineNum="25" pc="268440892" symbol="onStart"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="13" lineNum="26" pc="268440896" symbol="onStart"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="13" lineNum="27" pc="268440924" symbol="onStart"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="14" lineNum="31" pc="268440960" symbol="onStop"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="15" lineNum="35" pc="268440965" symbol="getInitialView"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEApp.mc" id="15" lineNum="36" pc="268440969" symbol="getInitialView"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEMenuDelegate.mc" id="17" lineNum="8" pc="268441037" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEMenuDelegate.mc" id="17" lineNum="9" pc="268441041" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEMenuDelegate.mc" id="18" lineNum="12" pc="268441060" symbol="onMenuItem"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEMenuDelegate.mc" id="18" lineNum="13" pc="268441064" symbol="onMenuItem"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEMenuDelegate.mc" id="18" lineNum="14" pc="268441075" symbol="onMenuItem"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEMenuDelegate.mc" id="18" lineNum="15" pc="268441099" symbol="onMenuItem"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEMenuDelegate.mc" id="18" lineNum="16" pc="268441110" symbol="onMenuItem"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="19" lineNum="15" pc="268441135" symbol="requestDisplayUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="19" lineNum="16" pc="268441147" symbol="requestDisplayUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="24" pc="268441164" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="25" pc="268441168" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="27" pc="268441216" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="33" pc="268441310" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="38" pc="268441416" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="46" pc="268441539" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="54" pc="268441669" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="56" pc="268441683" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="57" pc="268441696" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="59" pc="268441731" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="60" pc="268441756" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="67" pc="268441905" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="68" pc="268441930" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="78" pc="268442067" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="79" pc="268442092" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="86" pc="268442241" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="87" pc="268442266" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="96" pc="268442400" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="98" pc="268442423" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="105" pc="268442542" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="108" pc="268442562" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="109" pc="268442603" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="112" pc="268442626" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="113" pc="268442646" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="116" pc="268442669" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="117" pc="268442694" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="124" pc="268442820" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="125" pc="268442843" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="126" pc="268442868" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="127" pc="268442904" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="128" pc="268442916" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="129" pc="268442939" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="130" pc="268442964" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="131" pc="268443000" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="132" pc="268443012" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="133" pc="268443035" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="134" pc="268443060" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="135" pc="268443096" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="21" lineNum="136" pc="268443108" symbol="updateDisplay"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="22" lineNum="142" pc="268443132" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="22" lineNum="143" pc="268443136" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="22" lineNum="145" pc="268443154" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="22" lineNum="151" pc="268443251" symbol="initialize"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="23" lineNum="160" pc="268443352" symbol="onLayout"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="23" lineNum="161" pc="268443356" symbol="onLayout"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="24" lineNum="167" pc="268443394" symbol="onShow"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="171" pc="268443399" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="174" pc="268443403" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="175" pc="268443417" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="176" pc="268443454" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="177" pc="268443474" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="181" pc="268443491" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="182" pc="268443516" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="183" pc="268443553" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="184" pc="268443573" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="186" pc="268443590" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="187" pc="268443627" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="25" lineNum="188" pc="268443647" symbol="onUpdate"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="197" pc="268443662" symbol="onHide"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="198" pc="268443666" symbol="onHide"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="199" pc="268443685" symbol="onHide"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="204" pc="268443789" symbol="onHide"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="206" pc="268443808" symbol="onHide"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="207" pc="268443821" symbol="onHide"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="209" pc="268443838" symbol="onHide"/>
+        <entry filename="/Users/mallol/eclipse-workspace/sustAGE_watchApp/source/sustAGEView.mc" id="26" lineNum="211" pc="268443847" symbol="onHide"/>
+        <entry filename="Rez" id="32" lineNum="20" pc="268443867" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="23" pc="268443879" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="25" pc="268443984" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="34" pc="268444002" symbol="RecLayoutTest"/>
+        <entry filename="Rez" id="33" lineNum="37" pc="268444014" symbol="RecLayoutTest"/>
+        <entry filename="Rez" id="33" lineNum="38" pc="268444126" symbol="RecLayoutTest"/>
+        <entry filename="Rez" id="33" lineNum="40" pc="268444172" symbol="RecLayoutTest"/>
+        <entry filename="Rez" id="34" lineNum="49" pc="268444190" symbol="emptyLayout"/>
+        <entry filename="Rez" id="37" lineNum="60" pc="268444203" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="61" pc="268444207" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="62" pc="268444225" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="63" pc="268444281" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="59" symbol="connectionIcon"/>
+        <entry field="true" id="24" symbol="heartRate_list"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="19" symbol="xAcc_tmp"/>
+        <entry field="true" id="14" symbol="samplingRate"/>
+        <entry field="true" id="38" symbol="recommendationString"/>
+        <entry field="true" id="26" symbol="steps_list"/>
+        <entry field="true" id="55" symbol="currentHR"/>
+        <entry field="true" id="21" symbol="zAcc_tmp"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry id="77" method="true" symbol="MainLayout"/>
+        <entry field="true" id="13" symbol="retransmission"/>
+        <entry field="true" id="50" symbol="url"/>
+        <entry field="true" id="27" symbol="xAcc_list"/>
+        <entry id="79" method="true" symbol="emptyLayout"/>
+        <entry id="78" method="true" symbol="RecLayoutTest"/>
+        <entry field="true" id="23" symbol="timestamp_list"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="32" symbol="HRV_list_2transmit"/>
+        <entry field="true" id="42" symbol="deviceID"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="30" symbol="timestamp_list_2transmit"/>
+        <entry id="67" method="true" symbol="sensorOn"/>
+        <entry field="true" id="83" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="8390653" symbol="heartRateData"/>
+        <entry field="true" id="36" symbol="zAcc_list_2transmit"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="35" symbol="yAcc_list_2transmit"/>
+        <entry field="true" id="73" symbol="recIconPhone"/>
+        <entry field="true" id="82" symbol="prompt"/>
+        <entry id="66" method="true" symbol="sensorDataCallback"/>
+        <entry field="true" id="41" symbol="mySettings"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="15" symbol="xAcc"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="65" method="true" symbol="phoneMessageCallback"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="85" symbol="item_2"/>
+        <entry id="84" symbol="item_1"/>
+        <entry id="70" module="true" symbol="Menus"/>
+        <entry id="57" method="true" symbol="requestDisplayUpdate"/>
+        <entry field="true" id="75" symbol="sustAGE_LauncherIcon"/>
+        <entry field="true" id="47" symbol="previousNotification"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="43" object="true" symbol="sustAGEDelegate"/>
+        <entry field="true" id="8390134" symbol="sampleRate"/>
+        <entry id="8390648" symbol="accelerometer"/>
+        <entry field="true" id="8390655" symbol="heartBeatIntervals"/>
+        <entry id="52" object="true" symbol="sustAGEMenuDelegate"/>
+        <entry field="true" id="16" symbol="yAcc"/>
+        <entry field="true" id="29" symbol="zAcc_list"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry field="true" id="53" symbol="currentDate"/>
+        <entry id="58" object="true" symbol="sustAGEView"/>
+        <entry field="true" id="20" symbol="yAcc_tmp"/>
+        <entry id="76" object="true" symbol="MainMenu"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry field="true" id="18" symbol="HR_B2B"/>
+        <entry field="true" id="34" symbol="xAcc_list_2transmit"/>
+        <entry field="true" id="8390077" symbol="accelerometerData"/>
+        <entry id="8390438" symbol="enabled"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="12" symbol="canSend"/>
+        <entry field="true" id="10" symbol="timerSessions_early"/>
+        <entry field="true" id="62" symbol="recScreenTimer"/>
+        <entry field="true" id="44" symbol="samplesInBuffer"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="63" method="true" symbol="onReceive"/>
+        <entry field="true" id="17" symbol="zAcc"/>
+        <entry field="true" id="31" symbol="heartRate_list_2transmit"/>
+        <entry id="64" method="true" symbol="appMainScreen"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="37" symbol="recommendationFlag"/>
+        <entry field="true" id="22" symbol="HR_B2B_tmp"/>
+        <entry field="true" id="71" symbol="LauncherIcon"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="49" symbol="PROGRAM_MODE"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry field="true" id="54" symbol="currentTime"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="40" symbol="url_options"/>
+        <entry field="true" id="8388960" symbol="heartRate"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="74" symbol="hrIcon"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry id="8389808" symbol="period"/>
+        <entry field="true" id="28" symbol="yAcc_list"/>
+        <entry field="true" id="56" symbol="recString"/>
+        <entry field="true" id="72" symbol="connectivityIcon"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="68" method="true" symbol="startSensing"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="9" symbol="timerSessions"/>
+        <entry id="61" method="true" symbol="updateDisplay"/>
+        <entry field="true" id="46" symbol="notification"/>
+        <entry field="true" id="33" symbol="steps_list_2transmit"/>
+        <entry field="true" id="11" symbol="timerMeasurements"/>
+        <entry field="true" id="45" symbol="dataRecordingSession"/>
+        <entry field="true" id="48" symbol="HRmeasurement"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="69" module="true" symbol="Layouts"/>
+        <entry id="51" object="true" symbol="sustAGEApp"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="60" symbol="recIcon"/>
+        <entry field="true" id="39" symbol="NTPoffset"/>
+        <entry field="true" id="25" symbol="HRV_list"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="81" symbol="menu_label_2"/>
+        <entry field="true" id="80" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268436077" name="responseCode" stackId="1" startPc="268435528"/>
+        <entry endPc="268436077" name="data" stackId="2" startPc="268435528"/>
+        <entry endPc="268437513" name="message" stackId="2" startPc="268436112"/>
+        <entry endPc="268437514" name="msg" stackId="1" startPc="268436108"/>
+        <entry endPc="268437934" name="now_UNIX_sensor" stackId="2" startPc="268437518"/>
+        <entry endPc="268437935" name="sensorData" stackId="1" startPc="268437514"/>
+        <entry endPc="268439010" name="riddingOfNsamples" stackId="6" startPc="268438807"/>
+        <entry endPc="268439903" name="freeSamplesInBuffer" stackId="7" startPc="268439371"/>
+        <entry endPc="268440489" name="params" stackId="8" startPc="268439027"/>
+        <entry endPc="268440492" name="percentageFreeMemory" stackId="5" startPc="268438050"/>
+        <entry endPc="268440492" name="ActivityMonitorInfo" stackId="3" startPc="268438050"/>
+        <entry endPc="268440492" name="STEPSmeasurement" stackId="4" startPc="268438050"/>
+        <entry endPc="268440516" name="now_UNIX" stackId="2" startPc="268437939"/>
+        <entry endPc="268440517" name="sensorInfo" stackId="1" startPc="268437935"/>
+        <entry endPc="268440868" name="options" stackId="3" startPc="268440521"/>
+        <entry endPc="268440868" name="today_UNIX" stackId="1" startPc="268440521"/>
+        <entry endPc="268440868" name="today_UNIX_value" stackId="2" startPc="268440521"/>
+        <entry endPc="268440959" name="timerProgram" stackId="2" startPc="268440896"/>
+        <entry endPc="268440960" name="state" stackId="1" startPc="268440892"/>
+        <entry endPc="268440965" name="state" stackId="1" startPc="268440960"/>
+        <entry endPc="268441135" name="item" stackId="1" startPc="268441060"/>
+        <entry endPc="268443131" name="currentTime2display" stackId="2" startPc="268441168"/>
+        <entry endPc="268443131" name="timeString" stackId="4" startPc="268441168"/>
+        <entry endPc="268443131" name="dateString" stackId="3" startPc="268441168"/>
+        <entry endPc="268443132" name="dc" stackId="1" startPc="268441164"/>
+        <entry endPc="268443394" name="dc" stackId="1" startPc="268443352"/>
+        <entry endPc="268443662" name="dc" stackId="1" startPc="268443399"/>
+        <entry endPc="268443863" name="activityInfo" stackId="2" startPc="268443821"/>
+        <entry endPc="268443866" name="timeInfo" stackId="1" startPc="268443666"/>
+        <entry endPc="268444001" name="rez_cmp_local_bitmap_hrIcon" stackId="2" startPc="268443879"/>
+        <entry endPc="268444002" name="dc" stackId="1" startPc="268443867"/>
+        <entry endPc="268444189" name="rez_cmp_local_bitmap_recIcon" stackId="2" startPc="268444014"/>
+        <entry endPc="268444190" name="dc" stackId="1" startPc="268444002"/>
+        <entry endPc="268444203" name="dc" stackId="1" startPc="268444190"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="566" parentId="globals" symbolId="sustAGEView" type="class"/>
+        <dataEntry offset="669" parentId="globals" symbolId="sustAGEDelegate" type="class"/>
+        <dataEntry offset="780" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="859" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="938" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="977" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="1024" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1055" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1110" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1141" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1204" parentId="globals" symbolId="sustAGEMenuDelegate" type="class"/>
+        <dataEntry offset="1259" parentId="globals" symbolId="sustAGEApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="sustAGEDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="sustAGEDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="sustAGEDelegate">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="appMainScreen" parent="sustAGEDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="phoneMessageCallback" parent="sustAGEDelegate">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="sensorDataCallback" parent="sustAGEDelegate">
+            <param id="sensorData"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="sensorOn" parent="sustAGEDelegate">
+            <param id="sensorInfo"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startSensing" parent="sustAGEDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="sustAGEApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="sustAGEApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="sustAGEApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="sustAGEApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="sustAGEMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="sustAGEMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="requestDisplayUpdate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateDisplay" parent="sustAGEView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="sustAGEView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="sustAGEView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="sustAGEView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="sustAGEView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="sustAGEView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="RecLayoutTest" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="emptyLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
