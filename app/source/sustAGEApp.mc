@@ -12,7 +12,7 @@ var HRmeasurement = null;
 var PROGRAM_MODE = "prod"; // "devel" or "prod"
 
 // Declaration of URL where to store data
-var url = "https://url:port/api";
+var url = "https://[ip]:[port]/api";
 
 class sustAGEApp extends Application.AppBase {
 
